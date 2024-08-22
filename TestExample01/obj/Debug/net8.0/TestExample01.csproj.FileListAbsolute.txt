@@ -1,0 +1,15 @@
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\TestExample01\bin\Debug\net8.0\TestExample01.exe
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\TestExample01\bin\Debug\net8.0\TestExample01.deps.json
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\TestExample01\bin\Debug\net8.0\TestExample01.runtimeconfig.json
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\TestExample01\bin\Debug\net8.0\TestExample01.dll
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\TestExample01\bin\Debug\net8.0\TestExample01.pdb
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\TestExample01\obj\Debug\net8.0\TestExample01.GeneratedMSBuildEditorConfig.editorconfig
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\TestExample01\obj\Debug\net8.0\TestExample01.AssemblyInfoInputs.cache
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\TestExample01\obj\Debug\net8.0\TestExample01.AssemblyInfo.cs
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\TestExample01\obj\Debug\net8.0\TestExample01.csproj.CoreCompileInputs.cache
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\TestExample01\obj\Debug\net8.0\TestExample01.sourcelink.json
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\TestExample01\obj\Debug\net8.0\TestExample01.dll
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\TestExample01\obj\Debug\net8.0\refint\TestExample01.dll
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\TestExample01\obj\Debug\net8.0\TestExample01.pdb
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\TestExample01\obj\Debug\net8.0\TestExample01.genruntimeconfig.cache
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\TestExample01\obj\Debug\net8.0\ref\TestExample01.dll
