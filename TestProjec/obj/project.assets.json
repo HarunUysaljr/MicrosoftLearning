@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\OfisÇalışma\\CsharpProjects\\TestProjec\\TestProjec.csproj",
+      "projectUniqueName": "E:\\OfisÇalışma\\CsharpProjects\\MicrosoftLearning\\TestProjec\\TestProjec.csproj",
       "projectName": "TestProjec",
-      "projectPath": "E:\\OfisÇalışma\\CsharpProjects\\TestProjec\\TestProjec.csproj",
+      "projectPath": "E:\\OfisÇalışma\\CsharpProjects\\MicrosoftLearning\\TestProjec\\TestProjec.csproj",
       "packagesPath": "C:\\Users\\UTARIT\\.nuget\\packages\\",
-      "outputPath": "E:\\OfisÇalışma\\CsharpProjects\\TestProjec\\obj\\",
+      "outputPath": "E:\\OfisÇalışma\\CsharpProjects\\MicrosoftLearning\\TestProjec\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\UTARIT\\AppData\\Roaming\\NuGet\\NuGet.Config"

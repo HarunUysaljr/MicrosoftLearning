@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\OfisÇalışma\\CsharpProjects\\TestProject02\\TestProject.csproj": {}
+    "E:\\OfisÇalışma\\CsharpProjects\\MicrosoftLearning\\TestProject02\\TestProject.csproj": {}
   },
   "projects": {
-    "E:\\OfisÇalışma\\CsharpProjects\\TestProject02\\TestProject.csproj": {
+    "E:\\OfisÇalışma\\CsharpProjects\\MicrosoftLearning\\TestProject02\\TestProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\OfisÇalışma\\CsharpProjects\\TestProject02\\TestProject.csproj",
+        "projectUniqueName": "E:\\OfisÇalışma\\CsharpProjects\\MicrosoftLearning\\TestProject02\\TestProject.csproj",
         "projectName": "TestProject",
-        "projectPath": "E:\\OfisÇalışma\\CsharpProjects\\TestProject02\\TestProject.csproj",
+        "projectPath": "E:\\OfisÇalışma\\CsharpProjects\\MicrosoftLearning\\TestProject02\\TestProject.csproj",
         "packagesPath": "C:\\Users\\UTARIT\\.nuget\\packages\\",
-        "outputPath": "E:\\OfisÇalışma\\CsharpProjects\\TestProject02\\obj\\",
+        "outputPath": "E:\\OfisÇalışma\\CsharpProjects\\MicrosoftLearning\\TestProject02\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\UTARIT\\AppData\\Roaming\\NuGet\\NuGet.Config"
