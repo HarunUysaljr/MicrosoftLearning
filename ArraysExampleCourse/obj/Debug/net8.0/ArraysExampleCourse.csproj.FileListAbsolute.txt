@@ -1,0 +1,15 @@
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\ArraysExampleCourse\bin\Debug\net8.0\ArraysExampleCourse.exe
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\ArraysExampleCourse\bin\Debug\net8.0\ArraysExampleCourse.deps.json
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\ArraysExampleCourse\bin\Debug\net8.0\ArraysExampleCourse.runtimeconfig.json
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\ArraysExampleCourse\bin\Debug\net8.0\ArraysExampleCourse.dll
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\ArraysExampleCourse\bin\Debug\net8.0\ArraysExampleCourse.pdb
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\ArraysExampleCourse\obj\Debug\net8.0\ArraysExampleCourse.GeneratedMSBuildEditorConfig.editorconfig
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\ArraysExampleCourse\obj\Debug\net8.0\ArraysExampleCourse.AssemblyInfoInputs.cache
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\ArraysExampleCourse\obj\Debug\net8.0\ArraysExampleCourse.AssemblyInfo.cs
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\ArraysExampleCourse\obj\Debug\net8.0\ArraysExampleCourse.csproj.CoreCompileInputs.cache
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\ArraysExampleCourse\obj\Debug\net8.0\ArraysExampleCourse.sourcelink.json
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\ArraysExampleCourse\obj\Debug\net8.0\ArraysExampleCourse.dll
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\ArraysExampleCourse\obj\Debug\net8.0\refint\ArraysExampleCourse.dll
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\ArraysExampleCourse\obj\Debug\net8.0\ArraysExampleCourse.pdb
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\ArraysExampleCourse\obj\Debug\net8.0\ArraysExampleCourse.genruntimeconfig.cache
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\ArraysExampleCourse\obj\Debug\net8.0\ref\ArraysExampleCourse.dll
