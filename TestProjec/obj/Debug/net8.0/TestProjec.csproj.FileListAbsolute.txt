@@ -1,0 +1,14 @@
+E:\OfisÇalışma\CsharpProjects\TestProjec\bin\Debug\net8.0\TestProjec.exe
+E:\OfisÇalışma\CsharpProjects\TestProjec\bin\Debug\net8.0\TestProjec.deps.json
+E:\OfisÇalışma\CsharpProjects\TestProjec\bin\Debug\net8.0\TestProjec.runtimeconfig.json
+E:\OfisÇalışma\CsharpProjects\TestProjec\bin\Debug\net8.0\TestProjec.dll
+E:\OfisÇalışma\CsharpProjects\TestProjec\bin\Debug\net8.0\TestProjec.pdb
+E:\OfisÇalışma\CsharpProjects\TestProjec\obj\Debug\net8.0\TestProjec.GeneratedMSBuildEditorConfig.editorconfig
+E:\OfisÇalışma\CsharpProjects\TestProjec\obj\Debug\net8.0\TestProjec.AssemblyInfoInputs.cache
+E:\OfisÇalışma\CsharpProjects\TestProjec\obj\Debug\net8.0\TestProjec.AssemblyInfo.cs
+E:\OfisÇalışma\CsharpProjects\TestProjec\obj\Debug\net8.0\TestProjec.csproj.CoreCompileInputs.cache
+E:\OfisÇalışma\CsharpProjects\TestProjec\obj\Debug\net8.0\TestProjec.dll
+E:\OfisÇalışma\CsharpProjects\TestProjec\obj\Debug\net8.0\refint\TestProjec.dll
+E:\OfisÇalışma\CsharpProjects\TestProjec\obj\Debug\net8.0\TestProjec.pdb
+E:\OfisÇalışma\CsharpProjects\TestProjec\obj\Debug\net8.0\TestProjec.genruntimeconfig.cache
+E:\OfisÇalışma\CsharpProjects\TestProjec\obj\Debug\net8.0\ref\TestProjec.dll
