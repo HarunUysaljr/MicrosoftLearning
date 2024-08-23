@@ -1,0 +1,15 @@
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\CreatingReadableCode\bin\Debug\net8.0\CreatingReadableCode.exe
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\CreatingReadableCode\bin\Debug\net8.0\CreatingReadableCode.deps.json
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\CreatingReadableCode\bin\Debug\net8.0\CreatingReadableCode.runtimeconfig.json
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\CreatingReadableCode\bin\Debug\net8.0\CreatingReadableCode.dll
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\CreatingReadableCode\bin\Debug\net8.0\CreatingReadableCode.pdb
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\CreatingReadableCode\obj\Debug\net8.0\CreatingReadableCode.GeneratedMSBuildEditorConfig.editorconfig
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\CreatingReadableCode\obj\Debug\net8.0\CreatingReadableCode.AssemblyInfoInputs.cache
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\CreatingReadableCode\obj\Debug\net8.0\CreatingReadableCode.AssemblyInfo.cs
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\CreatingReadableCode\obj\Debug\net8.0\CreatingReadableCode.csproj.CoreCompileInputs.cache
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\CreatingReadableCode\obj\Debug\net8.0\CreatingReadableCode.sourcelink.json
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\CreatingReadableCode\obj\Debug\net8.0\CreatingReadableCode.dll
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\CreatingReadableCode\obj\Debug\net8.0\refint\CreatingReadableCode.dll
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\CreatingReadableCode\obj\Debug\net8.0\CreatingReadableCode.pdb
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\CreatingReadableCode\obj\Debug\net8.0\CreatingReadableCode.genruntimeconfig.cache
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\CreatingReadableCode\obj\Debug\net8.0\ref\CreatingReadableCode.dll
