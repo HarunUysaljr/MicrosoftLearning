@@ -2,7 +2,7 @@
 
 foreach (string orderID in orderIDs)
 {
-    if (orderID.StartsWith("C"))
+    if (orderID.StartsWith("C"))  //“B” harfiyle başlayıp başlamadığını belirlemek için String.StartsWith() yöntemini kullanın
     {
         Console.WriteLine(orderID);
     }
