@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ArraysExampleCourse")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9dec93e7e7d89e1ba2413194e475b14cba34c380")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b5fadf38c13eb7cd4f299fa80a6c682af5020f42")]
 [assembly: System.Reflection.AssemblyProductAttribute("ArraysExampleCourse")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ArraysExampleCourse")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
