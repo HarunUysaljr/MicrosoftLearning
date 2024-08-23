@@ -1,0 +1,15 @@
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\FakeOrderExample\bin\Debug\net8.0\FakeOrderExample.exe
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\FakeOrderExample\bin\Debug\net8.0\FakeOrderExample.deps.json
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\FakeOrderExample\bin\Debug\net8.0\FakeOrderExample.runtimeconfig.json
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\FakeOrderExample\bin\Debug\net8.0\FakeOrderExample.dll
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\FakeOrderExample\bin\Debug\net8.0\FakeOrderExample.pdb
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\FakeOrderExample\obj\Debug\net8.0\FakeOrderExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\FakeOrderExample\obj\Debug\net8.0\FakeOrderExample.AssemblyInfoInputs.cache
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\FakeOrderExample\obj\Debug\net8.0\FakeOrderExample.AssemblyInfo.cs
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\FakeOrderExample\obj\Debug\net8.0\FakeOrderExample.csproj.CoreCompileInputs.cache
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\FakeOrderExample\obj\Debug\net8.0\FakeOrderExample.sourcelink.json
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\FakeOrderExample\obj\Debug\net8.0\FakeOrderExample.dll
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\FakeOrderExample\obj\Debug\net8.0\refint\FakeOrderExample.dll
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\FakeOrderExample\obj\Debug\net8.0\FakeOrderExample.pdb
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\FakeOrderExample\obj\Debug\net8.0\FakeOrderExample.genruntimeconfig.cache
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\FakeOrderExample\obj\Debug\net8.0\ref\FakeOrderExample.dll

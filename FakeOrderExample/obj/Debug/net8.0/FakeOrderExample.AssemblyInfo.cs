@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("ArraysExampleCourse")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("FakeOrderExample")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f5f6bb04a1cd0276fb7a970605c5d780c858214a")]
-[assembly: System.Reflection.AssemblyProductAttribute("ArraysExampleCourse")]
-[assembly: System.Reflection.AssemblyTitleAttribute("ArraysExampleCourse")]
+[assembly: System.Reflection.AssemblyProductAttribute("FakeOrderExample")]
+[assembly: System.Reflection.AssemblyTitleAttribute("FakeOrderExample")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.
