@@ -1,0 +1,15 @@
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\SchoolExample\bin\Debug\net8.0\SchoolExample.exe
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\SchoolExample\bin\Debug\net8.0\SchoolExample.deps.json
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\SchoolExample\bin\Debug\net8.0\SchoolExample.runtimeconfig.json
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\SchoolExample\bin\Debug\net8.0\SchoolExample.dll
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\SchoolExample\bin\Debug\net8.0\SchoolExample.pdb
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\SchoolExample\obj\Debug\net8.0\SchoolExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\SchoolExample\obj\Debug\net8.0\SchoolExample.AssemblyInfoInputs.cache
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\SchoolExample\obj\Debug\net8.0\SchoolExample.AssemblyInfo.cs
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\SchoolExample\obj\Debug\net8.0\SchoolExample.csproj.CoreCompileInputs.cache
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\SchoolExample\obj\Debug\net8.0\SchoolExample.sourcelink.json
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\SchoolExample\obj\Debug\net8.0\SchoolExample.dll
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\SchoolExample\obj\Debug\net8.0\refint\SchoolExample.dll
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\SchoolExample\obj\Debug\net8.0\SchoolExample.pdb
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\SchoolExample\obj\Debug\net8.0\SchoolExample.genruntimeconfig.cache
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\SchoolExample\obj\Debug\net8.0\ref\SchoolExample.dll
