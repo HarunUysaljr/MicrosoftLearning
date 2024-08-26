@@ -70,8 +70,7 @@ int Ahmet1 = 70;
 int Ahmet2 = 12;
 int Ahmet3 = 70;
 
-int HarunToplam = 0;
-int AhmetToplam = 0;
+
 
 decimal harunNote = (harun1 + harun2 + harun3) / totalQuizz;
 decimal ahmetNote = (Ahmet1 + Ahmet2 + Ahmet3) / totalQuizz;
