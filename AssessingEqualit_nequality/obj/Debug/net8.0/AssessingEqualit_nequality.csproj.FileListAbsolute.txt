@@ -1,0 +1,15 @@
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\AssessingEqualit_nequality\bin\Debug\net8.0\AssessingEqualit_nequality.exe
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\AssessingEqualit_nequality\bin\Debug\net8.0\AssessingEqualit_nequality.deps.json
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\AssessingEqualit_nequality\bin\Debug\net8.0\AssessingEqualit_nequality.runtimeconfig.json
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\AssessingEqualit_nequality\bin\Debug\net8.0\AssessingEqualit_nequality.dll
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\AssessingEqualit_nequality\bin\Debug\net8.0\AssessingEqualit_nequality.pdb
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\AssessingEqualit_nequality\obj\Debug\net8.0\AssessingEqualit_nequality.GeneratedMSBuildEditorConfig.editorconfig
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\AssessingEqualit_nequality\obj\Debug\net8.0\AssessingEqualit_nequality.AssemblyInfoInputs.cache
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\AssessingEqualit_nequality\obj\Debug\net8.0\AssessingEqualit_nequality.AssemblyInfo.cs
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\AssessingEqualit_nequality\obj\Debug\net8.0\AssessingEqualit_nequality.csproj.CoreCompileInputs.cache
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\AssessingEqualit_nequality\obj\Debug\net8.0\AssessingEqualit_nequality.sourcelink.json
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\AssessingEqualit_nequality\obj\Debug\net8.0\AssessingEqualit_nequality.dll
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\AssessingEqualit_nequality\obj\Debug\net8.0\refint\AssessingEqualit_nequality.dll
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\AssessingEqualit_nequality\obj\Debug\net8.0\AssessingEqualit_nequality.pdb
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\AssessingEqualit_nequality\obj\Debug\net8.0\AssessingEqualit_nequality.genruntimeconfig.cache
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\AssessingEqualit_nequality\obj\Debug\net8.0\ref\AssessingEqualit_nequality.dll
