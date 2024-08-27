@@ -1,0 +1,15 @@
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\EmployeeLevels\bin\Debug\net8.0\EmployeeLevels.exe
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\EmployeeLevels\bin\Debug\net8.0\EmployeeLevels.deps.json
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\EmployeeLevels\bin\Debug\net8.0\EmployeeLevels.runtimeconfig.json
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\EmployeeLevels\bin\Debug\net8.0\EmployeeLevels.dll
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\EmployeeLevels\bin\Debug\net8.0\EmployeeLevels.pdb
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\EmployeeLevels\obj\Debug\net8.0\EmployeeLevels.GeneratedMSBuildEditorConfig.editorconfig
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\EmployeeLevels\obj\Debug\net8.0\EmployeeLevels.AssemblyInfoInputs.cache
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\EmployeeLevels\obj\Debug\net8.0\EmployeeLevels.AssemblyInfo.cs
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\EmployeeLevels\obj\Debug\net8.0\EmployeeLevels.csproj.CoreCompileInputs.cache
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\EmployeeLevels\obj\Debug\net8.0\EmployeeLevels.sourcelink.json
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\EmployeeLevels\obj\Debug\net8.0\EmployeeLevels.dll
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\EmployeeLevels\obj\Debug\net8.0\refint\EmployeeLevels.dll
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\EmployeeLevels\obj\Debug\net8.0\EmployeeLevels.pdb
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\EmployeeLevels\obj\Debug\net8.0\EmployeeLevels.genruntimeconfig.cache
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\EmployeeLevels\obj\Debug\net8.0\ref\EmployeeLevels.dll
