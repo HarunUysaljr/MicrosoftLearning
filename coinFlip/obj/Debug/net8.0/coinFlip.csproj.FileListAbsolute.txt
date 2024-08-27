@@ -1,0 +1,15 @@
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\coinFlip\obj\Debug\net8.0\coinFlip.GeneratedMSBuildEditorConfig.editorconfig
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\coinFlip\obj\Debug\net8.0\coinFlip.AssemblyInfoInputs.cache
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\coinFlip\obj\Debug\net8.0\coinFlip.AssemblyInfo.cs
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\coinFlip\obj\Debug\net8.0\coinFlip.csproj.CoreCompileInputs.cache
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\coinFlip\obj\Debug\net8.0\coinFlip.sourcelink.json
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\coinFlip\bin\Debug\net8.0\coinFlip.exe
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\coinFlip\bin\Debug\net8.0\coinFlip.deps.json
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\coinFlip\bin\Debug\net8.0\coinFlip.runtimeconfig.json
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\coinFlip\bin\Debug\net8.0\coinFlip.dll
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\coinFlip\bin\Debug\net8.0\coinFlip.pdb
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\coinFlip\obj\Debug\net8.0\coinFlip.dll
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\coinFlip\obj\Debug\net8.0\refint\coinFlip.dll
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\coinFlip\obj\Debug\net8.0\coinFlip.pdb
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\coinFlip\obj\Debug\net8.0\coinFlip.genruntimeconfig.cache
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\coinFlip\obj\Debug\net8.0\ref\coinFlip.dll
