@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AssessingEqualit_nequality")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d9ea54840d8bd71161374255f873c2016349c329")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4f37e871aa67ed0b1f6612f6b9b4ec1c1777300f")]
 [assembly: System.Reflection.AssemblyProductAttribute("AssessingEqualit_nequality")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AssessingEqualit_nequality")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
