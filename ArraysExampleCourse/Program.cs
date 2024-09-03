@@ -50,7 +50,7 @@ int[] inventory = { 200, 450, 700, 175, 250 };
 int totalItems = 0;
 
 // Binlerin numarasını takip etmek için bir değişken başlatıyoruz
-int binNumber = 0;
+int binNumber = 2;
 
 // inventory dizisindeki her bir ürün miktarını döngüyle işliyoruz
 foreach (int items in inventory)
