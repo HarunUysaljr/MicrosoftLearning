@@ -1,0 +1,15 @@
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\TotalExample\obj\Debug\net8.0\TotalExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\TotalExample\obj\Debug\net8.0\TotalExample.AssemblyInfoInputs.cache
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\TotalExample\obj\Debug\net8.0\TotalExample.AssemblyInfo.cs
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\TotalExample\obj\Debug\net8.0\TotalExample.csproj.CoreCompileInputs.cache
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\TotalExample\obj\Debug\net8.0\TotalExample.sourcelink.json
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\TotalExample\bin\Debug\net8.0\TotalExample.exe
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\TotalExample\bin\Debug\net8.0\TotalExample.deps.json
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\TotalExample\bin\Debug\net8.0\TotalExample.runtimeconfig.json
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\TotalExample\bin\Debug\net8.0\TotalExample.dll
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\TotalExample\bin\Debug\net8.0\TotalExample.pdb
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\TotalExample\obj\Debug\net8.0\TotalExample.dll
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\TotalExample\obj\Debug\net8.0\refint\TotalExample.dll
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\TotalExample\obj\Debug\net8.0\TotalExample.pdb
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\TotalExample\obj\Debug\net8.0\TotalExample.genruntimeconfig.cache
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\TotalExample\obj\Debug\net8.0\ref\TotalExample.dll
