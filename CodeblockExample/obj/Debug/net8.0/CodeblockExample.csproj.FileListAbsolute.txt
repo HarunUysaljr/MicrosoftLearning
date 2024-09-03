@@ -1,0 +1,15 @@
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\CodeblockExample\bin\Debug\net8.0\CodeblockExample.exe
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\CodeblockExample\bin\Debug\net8.0\CodeblockExample.deps.json
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\CodeblockExample\bin\Debug\net8.0\CodeblockExample.runtimeconfig.json
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\CodeblockExample\bin\Debug\net8.0\CodeblockExample.dll
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\CodeblockExample\bin\Debug\net8.0\CodeblockExample.pdb
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\CodeblockExample\obj\Debug\net8.0\CodeblockExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\CodeblockExample\obj\Debug\net8.0\CodeblockExample.AssemblyInfoInputs.cache
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\CodeblockExample\obj\Debug\net8.0\CodeblockExample.AssemblyInfo.cs
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\CodeblockExample\obj\Debug\net8.0\CodeblockExample.csproj.CoreCompileInputs.cache
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\CodeblockExample\obj\Debug\net8.0\CodeblockExample.sourcelink.json
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\CodeblockExample\obj\Debug\net8.0\CodeblockExample.dll
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\CodeblockExample\obj\Debug\net8.0\refint\CodeblockExample.dll
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\CodeblockExample\obj\Debug\net8.0\CodeblockExample.pdb
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\CodeblockExample\obj\Debug\net8.0\CodeblockExample.genruntimeconfig.cache
+E:\OfisÇalışma\CsharpProjects\MicrosoftLearning\CodeblockExample\obj\Debug\net8.0\ref\CodeblockExample.dll
